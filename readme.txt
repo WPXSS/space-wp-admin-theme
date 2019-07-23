@@ -17,16 +17,11 @@ WordPress admin theme that brings a nice and modern look to your wp-admin. Chang
 Currently Space Admin Theme doesn't have any settings, you just activate it when you want and deactivate to disable.
 
 = Color Schemes =
-   * You can easily overwrite the colors with WordPress's color schemes 
-[youtube https://youtu.be/WFqEK0azlLg]
-
-= Rocket Search =
-   * The search is triggered by pressing Shift + Space on your keyboard. The Space Search can be triggered on both the front-end and wp-admin and is made to simplify the process of switching from one to another.  
-[youtube https://youtu.be/szZ7flPtd_k]
+[youtube https://youtu.be/23CH6xMUgkA]
 
 = Top bar =
    * Slightly modified top-bar with custom search powered by RocketBar.
-[youtube https://youtu.be/kF4eFi6OVOM]
+[youtube https://youtu.be/1p7q3KDUuSo]
 
 = Login Screen =
    * Space theme will also change the appearance of the login page.
