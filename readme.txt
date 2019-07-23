@@ -1,9 +1,9 @@
 === Space Admin Theme ===
-Contributors: StefanPejcic
+Contributors: StefanPejcic, WPorb, PluginsBay
 Tags: admin, admin page, admin panel, admin theme style plugin, wordpress admin panel, admin-theme, backend theme, custom admin theme, flat admin theme, free admin theme style plugin, modern admin theme, new admin ui, simple admin theme, white Label, wordpress, wordpress admin dashboard, wordpress admin theme, wp admin page, wp admin theme, space, stefan pejcic, clean, wp admin
-Donate link: http://giga.rs
+Donate link: https://pluginsbay.com/wp-admin-themes/
 Requires at least: 4.0
-Tested up to: 5.2
+Tested up to: 5.3
 Stable tag: 5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,17 +14,31 @@ Brings a nice, modern look to the WordPress admin.
 
 WordPress admin theme that brings a nice and modern look to your wp-admin. Change is good! :)
 
-If you like the Space Admin Theme, please consider leaving a review here on WordPress. :)
+Currently Space Admin Theme doesn't have any settings, you just activate it when you want and deactivate to disable.
 
-== Credits ==
-based on ShiftShort: https://github.com/short/shift-short-wp-admin-theme
+= Color Schemes =
+   * You can easily overwrite the colors with WordPress's color schemes 
+[youtube https://youtu.be/WFqEK0azlLg]
 
-Icons by Elegant Themes: http://www.elegantthemes.com/blog/resources/elegant-icon-font
+= Rocket Search =
+   * The search is triggered by pressing Shift + Space on your keyboard. The Space Search can be triggered on both the front-end and wp-admin and is made to simplify the process of switching from one to another.  
+[youtube https://youtu.be/szZ7flPtd_k]
+
+= Top bar =
+   * Slightly modified top-bar with custom search powered by RocketBar.
+[youtube https://youtu.be/kF4eFi6OVOM]
+
+= Login Screen =
+   * Space theme will also change the appearance of the login page.
+<img src="https://pluginsbay.com/wp-content/uploads/edd/2019/07/login.png" alt="Logic Screen" />
+
+   
+If you like the Space Admin Theme, [please consider leaving a review](https://wordpress.org/plugins/space-admin-theme/#reviews) :)   
 
 == Installation ==
 
 FROM WP ADMIN: Install from the WordPress.org respository by going to Plugins > Add New and search for Space Admin Theme. Install & Activate.
-BY UPLOADING: Upload and extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
+BY UPLOADING: Upload and extract the .zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
 
 == Frequently Asked Questions ==
@@ -37,14 +51,24 @@ From your User > Edit Profile page
 
 Shift + Space
 
+== Credits ==
+Based on the [ShiftShort](https://github.com/short/shift-short-wp-admin-theme) plugin
+
+Icons by [Elegant Themes](http://www.elegantthemes.com/blog/resources/elegant-icon-font)
+
 == Screenshots ==
 
 1. Admin Dashboard
-2. Color Schemes
+2. Responsive
 3. Rocket Bar Search
-4. Login Page
 
 == Changelog ==
 
-= 1.0 =
-Initial
+= 1.0.2 =
+Redesigned admin menu
+
+= 1.0.1 =
+cursor bug on IE fixed
+
+= 1.0.0 =
+Initial release

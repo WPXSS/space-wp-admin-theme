@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Space Admin Theme
-Plugin URI: https://giga.rs/space-wp-admin-theme/
+Plugin URI: https://pluginsbay.com/wp-admin-themes/
 Description: Modern looking WordPress admin theme for the dashboard.
-Version: 1.0
+Version: 1.0.2
 Author: Stefan Pejcic
-Author URI: https://giga.rs/
+Author URI: https://pluginsbay.com/wp-admin-themes/
 License: GPLv2
 */
 /*
