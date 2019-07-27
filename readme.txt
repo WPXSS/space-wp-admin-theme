@@ -1,4 +1,4 @@
-=== Space Admin Theme ===
+=== 🚀 Space Admin Theme ===
 Contributors: StefanPejcic, WPorb, PluginsBay
 Tags: admin, admin page, admin panel, admin theme style plugin, wordpress admin panel, admin-theme, backend theme, custom admin theme, flat admin theme, free admin theme style plugin, modern admin theme, new admin ui, simple admin theme, white Label, wordpress, wordpress admin dashboard, wordpress admin theme, wp admin page, wp admin theme, space, stefan pejcic, clean, wp admin
 Donate link: https://pluginsbay.com/wp-admin-themes/
@@ -14,14 +14,7 @@ Brings a nice, modern look to the WordPress admin.
 
 WordPress admin theme that brings a nice and modern look to your wp-admin. Change is good! :)
 
-Currently Space Admin Theme doesn't have any settings, you just activate it when you want and deactivate to disable.
-
-= Color Schemes =
-[youtube https://youtu.be/23CH6xMUgkA]
-
-= Top bar =
-   * Slightly modified top-bar with custom search powered by RocketBar.
-[youtube https://youtu.be/1p7q3KDUuSo]
+With 🚀 you can manage your admin menu, modify toolbar items and control dashboard widgets.
 
 = Login Screen =
    * Space theme will also change the appearance of the login page.
@@ -42,25 +35,33 @@ BY UPLOADING: Upload and extract the .zip file and just drop the contents in the
 
 From your User > Edit Profile page
 
-= How to open the Rocket Bar Search? =
+= How to open the 🚀 Space Search bar? =
 
 Shift + Space
 
-== Credits ==
-Based on the [ShiftShort](https://github.com/short/shift-short-wp-admin-theme) plugin
+= How to manage the menu items? =
+Go to Tools > Menu Manager
+from here you can rearange menu items with simple drag&drop interface, rename them and set role based permissions.
 
-Icons by [Elegant Themes](http://www.elegantthemes.com/blog/resources/elegant-icon-font)
+From your User > Edit Profile page
+
+== Credits ==
+versions 1.0.0 - 1.0.2 were based on the [ShiftShort](https://github.com/short/shift-short-wp-admin-theme) plugin and used Icons by [Elegant Themes](http://www.elegantthemes.com/blog/resources/elegant-icon-font). However since the version 1.0.5 the plugin was completely rewritten and now uses [Google Fonts](https://fonts.google.com/) and [Dashicons](https://developer.wordpress.org/resource/dashicons/).
 
 == Screenshots ==
 
-1. Admin Dashboard
-2. Responsive
-3. Rocket Bar Search
+1. Admin Menu
+2. Front-end Toolbar
+3. Space Admin Theme
 
 == Changelog ==
+= 1.0.5 =
+menu item based dashicons color
+menu editor added
 
 = 1.0.2 =
 Redesigned admin menu
+Google's metro icon set
 
 = 1.0.1 =
 cursor bug on IE fixed
