@@ -12,13 +12,20 @@ Brings a nice, modern look to the WordPress admin.
 
 == Description ==
 
-WordPress admin theme that brings a nice and modern look to your wp-admin. Change is good! :)
+Space admin theme will bring Google's material design to your admin dashboard. With 🚀 you can customize everything from the login screen and widgets to the toolbar and admin menu.
 
-With 🚀 you can manage your admin menu, modify toolbar items and control dashboard widgets.
+[ADMIN DEMO](https://demo.pluginsbay.com/space-admin-theme/)
 
-= Login Screen =
-   * Space theme will also change the appearance of the login page.
-<img src="https://pluginsbay.com/wp-content/uploads/edd/2019/07/login.png" alt="Logic Screen" />
+= Features =
+   * Redesign the dashboard and personalise it with Color Schemes
+   * Add a custom Logo images to the admin menu and Login forms
+   * Enable/Disable menu items based on user roles, move and rename
+   * Enable/Disable individually Toolbar styling and admin menu styling
+   * Enable/Disable columns on the Posts, Pages, Users and Media screen
+   * Enable/Disable dahboard Widgets and Metaboxes 
+= Premium =
+   * Customize the Toolbar, disable and rename sections
+   * Advanced Search panel that will speedup your daily work
 
    
 If you like the Space Admin Theme, [please consider leaving a review](https://wordpress.org/plugins/space-admin-theme/#reviews) :)   
@@ -37,25 +44,39 @@ From your User > Edit Profile page
 
 = How to open the 🚀 Space Search bar? =
 
-Shift + Space
+Ctrl + M
 
 = How to manage the menu items? =
 Go to Tools > Menu Manager
 from here you can rearange menu items with simple drag&drop interface, rename them and set role based permissions.
 
-From your User > Edit Profile page
+= Premium version? =
+Premium version adds extensions to the space admin theme.
+- Advanced Search
+- Toolbar manager
 
-== Credits ==
-versions 1.0.0 - 1.0.2 were based on the [ShiftShort](https://github.com/short/shift-short-wp-admin-theme) plugin and used Icons by [Elegant Themes](http://www.elegantthemes.com/blog/resources/elegant-icon-font). However since the version 1.0.5 the plugin was completely rewritten and now uses [Google Fonts](https://fonts.google.com/) and [Dashicons](https://developer.wordpress.org/resource/dashicons/).
 
 == Screenshots ==
 
 1. Admin Menu
 2. Front-end Toolbar
-3. Space Admin Theme
+3. Main Settings
+4. Column Manager
+5. Toolbar Manager - included in the premium verion
+6. Advanced Search - included in the premium verion
+7. Widget Manager
+8. Menu manager
+9. Search Settings - included in the premium verion
 
 == Changelog ==
+= 1.5.0 =
+pro version integrated
+fixed sticky issue on toolbar
+extensions introduced
+themify icons added for search
+
 = 1.0.5 =
+
 menu item based dashicons color
 menu editor added
 
