@@ -38,17 +38,26 @@ BY UPLOADING: Upload and extract the .zip file and just drop the contents in the
 
 == Frequently Asked Questions ==
 
-= How to change color scheme? =
-
-From your User > Edit Profile page
+= Can I change the colors to my own website’s style? =
+Yes. Go to User > Edit Profile page and set a Color Scheme that best suits your style.
 
 = How to open the 🚀 Space Search bar? =
-
 Ctrl + M
+
+= Can I add my company logo? =
+Yes. By default there is no logo set after activation. To add your own logo Go to Appearance > Space to upload a new logo image up to 200px wide.
+
+
+= Do I need to configure this plugin or change any settings? =
+No. All settings are applied automatically once the plugin is activated, but there is a Settings page to enable/disbale these options if you wish to do so.
 
 = How to manage the menu items? =
 Go to Tools > Menu Manager
 from here you can rearange menu items with simple drag&drop interface, rename them and set role based permissions.
+
+= Does this plugin make any changes to the website’s front-end? =
+No. It only changes the admin area, the login page,customizer and the admin bar for logged-in users.
+
 
 = Premium version? =
 Premium version adds extensions to the space admin theme.
