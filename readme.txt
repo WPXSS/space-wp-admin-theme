@@ -16,14 +16,18 @@ Space admin theme will bring Google's material design to your admin dashboard. W
 
 [ADMIN DEMO](https://demo.pluginsbay.com/space-admin-theme/)
 
-= Features =
-   * Redesign the dashboard and personalise it with Color Schemes
-   * Add a custom Logo images to the admin menu and Login forms
+= Out of the box features =
+   * White label admin dashboard with custom colors and logo
+   * Redesigned toolbar on the frontend
+   * Add custom label for the admin dashboard
+   * White label login with your own logo
+   
+= Available Options =
    * Enable/Disable menu items based on user roles, move and rename
    * Enable/Disable individually Toolbar styling and admin menu styling
    * Enable/Disable columns on the Posts, Pages, Users and Media screen
    * Enable/Disable dahboard Widgets and Metaboxes 
-= Premium =
+
    * Customize the Toolbar, disable and rename sections
    * Advanced Search panel that will speedup your daily work
 
